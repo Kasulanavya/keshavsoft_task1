@@ -4,7 +4,7 @@ body {
 }
 
  .hero-section {
-  background: url('Screenshot 2025-07-25 211546.png') 
+  background: url('../images/hero-bg.png') 
               no-repeat center center/cover;
   height: 60vh;
 }  
@@ -12,7 +12,7 @@ body {
 
 
 .hero-title {
-  color: #1a1818; 
+  color: #0a121a; 
 }
 
 .brand-name {
